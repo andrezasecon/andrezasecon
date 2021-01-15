@@ -45,7 +45,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/images/css3.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/css3.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
