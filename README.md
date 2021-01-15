@@ -75,11 +75,11 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 
 # Workspace IDE
 <p align="left">
-    <img src="https://img.shields.io/badge/Eclipse-0B57A4?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse-blueviolet?style=for-the-badge&logo=eclipse&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Intellij-87CF3E?style=for-the-badge&logo=intellij&logoColor=white">
+    <img src="https://img.shields.io/badge/Intellij-orange?style=for-the-badge&logo=intellij&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/VsCode-87CF3E?style=for-the-badge&logo=vscode&logoColor=white">
+    <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=vscode&logoColor=white">
 </p>
 
 
