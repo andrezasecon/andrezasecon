@@ -7,7 +7,8 @@
     </em>
 </p>
 
-
+- 🔭 I’m looking for a job in development area
+- 🌱 I’m currently learning Java, Spring and React
 
 ## Contact :iphone:
 
