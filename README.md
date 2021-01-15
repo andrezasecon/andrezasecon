@@ -70,7 +70,7 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Win_10-0B57A4?style=for-the-badge&logo=windows&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-20.04-87CF3E?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
 
