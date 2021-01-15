@@ -14,19 +14,19 @@
 
 <p align="left">
   <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/icoGitHub_4745725.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/icoGitHub_4745725.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(https://www.linkedin.com/in/andreza-secon-b5736788/)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/icolinkedin.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/icolinkedin.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(mailto:andrezasecon@gmail.com)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/gmail.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/gmail.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(https://api.whatsapp.com/send?phone=5511999204118)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/whatsapp.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/whatsapp.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -37,19 +37,19 @@
 ## Skills :nerd_face:
 <p align="left">
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/java.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/java.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/html5.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/html5.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/css3.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/images/css3.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/postgresql.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/postgresql.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
