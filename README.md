@@ -66,7 +66,11 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 
 ## Workspace Spec & OS :computer:
 <p align="left">
-   
+    <img src="https://img.shields.io/badge/core%20i7%2010Th-Dell_Inspiron_15_5000-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Win_10-0B57A4?style=for-the-badge&logo=windows&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 </p>
 
 
