@@ -7,7 +7,7 @@
     </em>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=dark">
+
 
 ## Contact :iphone:
 
@@ -41,7 +41,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="images/2.png" width="180" alt="Logo" align="right" />
+
 
 ## Learning :smirk:
 
@@ -55,17 +55,12 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 
 
 ## GitHub Status
-<p align="left">
-   
-</p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrezasecon&show_icons=true&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
 
 ## Most used languages
 
-<p align="left">
-   
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezasecon&layout=compact&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
    
 
       
