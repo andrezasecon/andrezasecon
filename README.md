@@ -39,6 +39,21 @@
         <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/java.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/html5.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/css3.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img  src="https://github.com/andrezasecon/andrezasecon/blob/main/images/postgresql.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+     
+    
 </p>
 
 
