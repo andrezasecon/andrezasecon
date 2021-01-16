@@ -1,5 +1,14 @@
-## Andreza Secon 
+<img  src="https://github.com/andrezasecon/img/blob/main/CAPA-GIT.png" width="1200px">>
 
+center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=andrezasecon&show_icons=true&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezasecon&layout=compact&theme=tokyonight/></td>
+    </tr>   
+  </table>
+</center>  
+   
 
 <p>
     <em>
@@ -81,16 +90,6 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=vscode&logoColor=white">
 </p>
-
-
-## GitHub Status
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrezasecon&show_icons=true&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
-
-## Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezasecon&layout=compact&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
-   
 
 
 
