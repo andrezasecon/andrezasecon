@@ -9,15 +9,19 @@
   </table>
 </center>  
    
-
+ ## About
 <p>
     <em>
         Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am graduetad in Internet Systems by <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a>, I am passionate about technologies, especially those involving Java and Web, and at the moment I'm studyng about POO, Spring Boot and React Js.
     </em>
 </p>
 
+<p>
+
 - 🔭 I’m looking for a job in development area
 - 🌱 I’m currently learning Java, Spring and React
+
+</p>
 
 ## Contact :iphone:
 
