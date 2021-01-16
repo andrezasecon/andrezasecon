@@ -92,7 +92,7 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezasecon&layout=compact&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
    
 ## Wakatime Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrezasecon&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
+[![Andreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asecon&theme=tokyonight)](https://github.com/andrezasecon/github-readme-stats)
 
 
  
