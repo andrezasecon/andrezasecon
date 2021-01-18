@@ -1,4 +1,4 @@
-<img  src="https://github.com/andrezasecon/img/blob/main/CAPA-GIT.png" width="1200px" height="400px">
+
 
 <center>
   <table>
