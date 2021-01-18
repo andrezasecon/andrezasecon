@@ -38,10 +38,7 @@
         <img  src="https://github.com/andrezasecon/img/blob/main/gmail.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="(https://api.whatsapp.com/send?phone=5511999204118)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/whatsapp.png">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
  
     
     
