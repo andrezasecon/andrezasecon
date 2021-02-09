@@ -71,8 +71,7 @@
 
 ## Learning :smirk:
 
-Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL on the back end! And Frontend with Angular and Ionic!
-
+Right now, I'm learning JAVA POO and REST API with Spring Boot with JPA Hibernate and PostgreSQL
 
 ## Workspace Spec & OS :computer:
 <p align="left">
