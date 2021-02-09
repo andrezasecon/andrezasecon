@@ -79,7 +79,7 @@ Right now, I'm learning JAVA POO and REST API with Spring Boot with JPA Hibernat
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Win-10-0B57A4?style=for-the-badge&logo=windows&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-20.04-87CF3E?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-20.10-87CF3E?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
 ## Workspace IDE
