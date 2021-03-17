@@ -89,6 +89,8 @@ Right now, I'm learning JAVA POO and REST API with Spring Boot with JPA Hibernat
     <img src="https://img.shields.io/badge/Intellij-orange?style=for-the-badge&logo=intellij&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=vscode&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/STS-4-green?style=for-the-badge&logo=sts&logoColor=white">
 </p>
 
 
