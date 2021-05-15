@@ -26,16 +26,13 @@
 ## Contact :iphone:
 
 <p align="left">
-  <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/icoGitHub_4745725.png">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="(https://www.linkedin.com/in/andreza-secon-b5736788/)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/icolinkedin.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/linkedin.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(mailto:andrezasecon@gmail.com)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/gmail.png">
+        <img  src="https://github.com/andrezasecon/img/blob/main/gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -51,11 +48,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img width="60px" src="https://github.com/andrezasecon/img/blob/main/html5-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/css3-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
@@ -67,7 +64,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/git-original.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/springio-icon.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
