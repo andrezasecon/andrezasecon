@@ -47,19 +47,27 @@
 ## Skills :nerd_face:
 <p align="left">
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/java.png">
+        <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/html5.png">
+        <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/css3.png">
+        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img  src="https://github.com/andrezasecon/img/blob/main/postgresql.png">
+        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
