@@ -44,31 +44,31 @@
 ## Skills :nerd_face:
 <p align="left">
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+        <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px" src="https://github.com/andrezasecon/img/blob/main/html5-original.svg">
+        <img width="40px" src="https://github.com/andrezasecon/img/blob/main/html5-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/css3-original.svg">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/css3-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <img width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/git-original.svg">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/git-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/springio-icon.svg">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/springio-icon.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
