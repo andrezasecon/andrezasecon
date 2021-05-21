@@ -4,7 +4,7 @@
   <table>
     <tr>
         <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=andrezasecon&theme=blue-green"/></td>
-        <td><img width="350px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andrezasecon&theme=blue-green"</td>
+        <td><img width="350px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=andrezasecon&theme=chartreuse-dark&hide_border=true"</td>
     </tr>   
   </table>
 </center>  
@@ -80,7 +80,7 @@
 
 ## Learning :smirk:
 
-Right now, I'm learning JAVA POO and REST API with Spring Boot with JPA Hibernate and PostgreSQL
+Right now, I'm immersed in a Spring React bootcamp in the DevSuperior
 
 ## Workspace Spec & OS :computer:
 <p align="left">
