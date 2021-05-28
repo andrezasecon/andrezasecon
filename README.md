@@ -44,7 +44,7 @@
 ## Skills :nerd_face:
 <p align="left">
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+        <img width="60px" src="https://github.com/andrezasecon/img/blob/main/java.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
@@ -55,12 +55,20 @@
         <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/css3-original.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/js.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/my-sql.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/spring.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/postgresql.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
@@ -68,12 +76,30 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/springio-icon.svg">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/docker.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-     
-    
+  <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/junit.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</p> 
+
+<p align="left">  
+  <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="30px" src="https://github.com/andrezasecon/img/blob/main/heroku.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="40px" src="https://github.com/andrezasecon/img/blob/main/postman.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px" src="https://github.com/andrezasecon/img/blob/main/maven.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
