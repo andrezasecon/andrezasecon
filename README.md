@@ -79,14 +79,14 @@
         <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/docker.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> 
+
+<p align="left">  
   <a href="(https://github.com/andrezasecon/andrezasecon)">
         <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/junit.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-</p> 
-
-<p align="left">  
+  
   <a href="(https://github.com/andrezasecon/andrezasecon)">
         <img width="30px" src="https://github.com/andrezasecon/img/blob/main/heroku.png">
     </a>
