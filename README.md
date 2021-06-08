@@ -11,7 +11,7 @@
 
  ## Visitors
 <p>
-<img width="150px" src= "https://komarev.com/ghpvc/?username=andrezasecon"
+<img width="150px" src= "https://komarev.com/ghpvc/?username=andrezasecon&style=flat-square"
 </p>
    
  ## About
