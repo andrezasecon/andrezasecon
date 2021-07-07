@@ -134,5 +134,5 @@ Right now, I'm immersed in a Spring React bootcamp in the DevSuperior
 </p>
 
 
-
+![Snake animation](https://github.com/andrezasecon/img/blob/main/github-contribution-grid-snake.svg)
  
