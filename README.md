@@ -76,14 +76,7 @@
         <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/postgresql.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/git-original.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="(https://github.com/andrezasecon/andrezasecon)">
-        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/docker.png">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
 </p> 
 
 <p align="left">  
@@ -103,6 +96,18 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(https://github.com/andrezasecon/andrezasecon)">
         <img width="60px" src="https://github.com/andrezasecon/img/blob/main/maven.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="40px"  src="https://github.com/andrezasecon/img/blob/main/git-original.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="60px"  src="https://github.com/andrezasecon/img/blob/main/docker.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="(https://github.com/andrezasecon/andrezasecon)">
+        <img width="55px"  src="https://github.com/andrezasecon/img/blob/main/kubernetes.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
